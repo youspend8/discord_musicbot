@@ -1,0 +1,9 @@
+com/musicbot/player/SearchManager.class
+com/musicbot/player/Main.class
+com/musicbot/player/Main$2.class
+com/musicbot/player/audio/TrackScheduler.class
+com/musicbot/player/audio/AudioHandler.class
+com/musicbot/player/audio/AudioPlayerSendHandler.class
+com/musicbot/player/client/YoutubeClient.class
+com/musicbot/player/Main$1.class
+com/musicbot/player/audio/GuildMusicManager.class
