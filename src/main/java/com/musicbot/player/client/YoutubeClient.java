@@ -10,8 +10,8 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 public class YoutubeClient {
-    private final String KEY = "AIzaSyDcmFTT8sWnjj4dFCsZ6LRfBmRzr95QK4Y";
-    private final String BASE_URL ="https://www.googleapis.com/youtube/v3/search?type=video&part=snippet&maxResults=10";
+    private final String KEY = "AIzaSyCaXRXVBL3V9nc9Tl1SlV3IxzwwRZwNpuA";
+    private final String BASE_URL = "https://www.googleapis.com/youtube/v3/search?type=video&part=snippet&maxResults=10";
 
     private URL getRequestURL(String keyword) {
         URL url = null;

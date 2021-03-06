@@ -75,7 +75,7 @@
         <dependency>
             <groupId>net.dv8tion</groupId>
             <artifactId>JDA</artifactId>
-            <version>4.1.0_97</version>
+            <version>4.2.0_168</version>
         </dependency>
 
         <dependency>
@@ -100,6 +100,12 @@
             <artifactId>jda-utilities</artifactId>
             <version>2.1.5</version>
             <type>pom</type>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
         </dependency>
     </dependencies>
 </project>
